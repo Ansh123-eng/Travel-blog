@@ -81,6 +81,7 @@ left: 25vw;
 .tourist-inner img{
     border-radius: 10px;
     margin-right: 3%;
+    height: 45vh;
 }
 .tourist-inner h2{
     margin-top: 10px;
